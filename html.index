@@ -1,1 +1,104 @@
+<html>
+<head>
+    <title>Tin Car</title>
+    <link rel="stylesheet" 
+  href="Style.CSS">
+</head>
+
+<body>
+
+    <nav class="nav">
+        <div class="Logo">
+            <img class="imagen" src="imagenes/Logo.jpeg">
+        </div>
+
+        <ul class="Nav-links"> 
+
+            <li class="Cuadritos"><a href="#Tin Car"class=letra>Tin Car</a>
+            <li class="Cuadritos letra">
+                <a href="#Objetivos Generales"class=letra>Objetivos Generales</a>
+            <li class="Cuadritos">
+                <a href="#Tecnologias"class=letra>Tecnologias</a>
+            <li class="Cuadritos">
+                <a href="#contactanos"class=letra>Contactanos</a>
+
+            </li>
+        </ul>
+    </nav>
+
+    <header class="header"> 
+        <h5 class="T">Tin Car</h5>
+        <img class="Tin" src="imagenes/Tin.jpeg">
+    </header>
+    
+    <section id="Tin Car" class="resumen">
+        <div>
+            <div>
+                <h2 class="T-T">Tin Car</h2>
+
+                <p class="R">Una de las problemáticas en las principales ciudades de Colombia es el mal uso del espacio público por parte de peatones y principalmente de conductores, los cuales traen consigo diferentes consecuencias como inseguridad, trancones, mal parqueo en espacios públicos etc. <br>
+                    Uno de los principales focos de estas problemáticas es que existe muchos conductores que usan las vías públicas para parquear sus vehículos, esto nos lleva a reducir el espacio en las vías destinadas para el tránsito de los diferentes medios de transporte.  Como respuesta a esto <br>
+                    han surgido diferentes propuestas que han buscado mejorar la movilidad y concientizar a los conductores de cómo se debe hacer un buen uso de las vías en las ciudades. Sin embargo, estas medidas no han logrado mitigar en su totalidad esta problemática teniendo en cuenta que  <br>
+                    a diario hay un crecimiento exponencial de los vehículos que se suman a la movilidad en las ciudades. Lo que busca nuestro proyecto llamado "Tin CAR" es solucionar esto, ya que nuestra idea permitira acceder a mas parqueaderos de los que hay hoy en dia, de este modo los <br>
+                    conductores no inavidan vias, andenes ni espacios publicos o incluso privados 
+                </p>
+            
+            </div>
+                <div id="Objetivos Generales">
+                  <ul class="general">
+                    <li class="Generales">¿que cambiar?</li>
+                    <li class="Generales">¿como?</li>
+                    <li class="Generales">¿a quien va dirigido?</li>
+                  </ul>
+                </div>
+        </div>
+
+    </section>
+
+    <section id="Tecnologias" class="Tecnologias">
+        <h2 class="T-dos">Tecnologias</h2>
+        <p class="P-T">El proyecto tin car ira enfocado mas hacia una aplicacion para moviles, es por ello que las tecnologias que emplearemos para dicho bjetivo seran las mas practicas, empezando por: </p>
+        <li class="pruebaa">Java</li>
+        <li class="pruebaa">Kotlin</li>
+        <li class="pruebaa">JavaScript con React Native</li>
+          
+    </section>
+
+    <section id="contactanos" class="flooter">
+
+    
+    <footer class="footer">
+        <!-- ESTE DIVE VA A CONTEBER TRES DIVISIONES Y ES EL PRIMERO -->
+        <div class="primero">
+                <div class="D-uno">
+                    <h1>Contactanos:</h1>
+                    <p>Cel: 3023158012</p>
+                    <p>instagram:</p>
+                    <p>Correo: tincarcompanysoft@gmail.com</p>
+                    <p>X:</p>
+                </div>
+                <!-- SEGUNDO DIV -->
+                <div class="D-dos">
+            
+                    <h2>Integrantes:</h2>
+                    <p>Diego Andres Hernandez Altamiranda</p>
+                    <p>Edgard mojica</p>
+                    <p>Cristian David Rincon</p>
+                    <p>Santiago Becerra</p>
+                    <p>Karen Palacios</p>
+                </div>
+        <!-- TERCER DIVE -->
+        <div class="D-tres">
+            <H2>Universidad</H2>
+            <P>San Buenaventura</P>
+        </div>
+    </div>
+    </div>
+    </footer>
+
+    </section>
+    
+    
+</body>
+</html>
 
