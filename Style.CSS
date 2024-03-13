@@ -1,0 +1,120 @@
+
+body {
+    
+    font-size:100%;
+    background-color: #000000;
+    padding: 90px 20px 0px;
+    
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1260px;
+    
+}
+
+.imagen {
+    width: 200px;
+    height: 120px;
+    
+
+}
+
+.Nav-links {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    cursor: pointer;
+    display: flex;
+    margin-right: 40px;
+    list-style: none;
+}
+
+.cuadritos {
+    font-size: 18px;
+    margin: 0 10px;
+    line-height: 80px;
+    text-transform: uppercase;
+    width: max-content;
+}
+
+.letra {
+    color:white;
+    text-decoration: none;
+}
+
+.Tin {
+    width: 500px;
+    height: 500px;
+    margin-top: 2%;
+    margin-left: 36%;
+}
+
+.T {
+    color: aliceblue;
+    margin-top: 18%;
+    margin-left: 48%;
+}
+
+.R {
+    color:white;
+    font-size: 1.2rem;
+    margin-left: 1%;
+}
+
+.T-T {
+    color: white;
+    margin-left: 48%;
+    
+}
+
+.resumen {
+    margin-top: 10%;
+}
+
+.general {
+    margin-top: 2%;
+    font-size: 1.4rem;
+}
+
+.generales {
+    color: white;
+    
+}
+
+.Tecnologias {
+    background-color:#3c3c3c;
+    margin-top: 10%;
+    font-size: 1.4rem;
+}
+
+.T-dos {
+    color: white;
+}
+
+.P-T {
+    color: white;
+}
+
+.prueba {
+    color: white;
+}
+
+.pruebaa {
+    color: white;
+}
+
+.flooter {
+    color: white;
+    margin-top: 8%;
+}
+
+.D-dos{
+    margin-left: 50%;
+    
+}
+
+.D-tres {
+    margin-left: 80%;
+}
